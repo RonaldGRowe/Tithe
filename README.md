@@ -1,5 +1,5 @@
-Tithe
-=====
+Tithes Keeper
+=============
 
 ![Application Example Picture](https://github.com/RonaldGRowe/Tithe/blob/master/Image/tithe-image.png)
 
