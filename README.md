@@ -25,10 +25,10 @@ That being said as I look over the code now I see numerous missteps.
 
 -No Comments!?! what was I thinking
 
--redundant code, checking all those inputs like that yikes!
+-Redundant code, checking all those inputs like that yikes!
 
--variable names could have been better.
+-Variable names could have been better.
 
--overall readability is not great.
+-Overall readability is not great.
 
 But I'm still proud of it.
