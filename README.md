@@ -18,17 +18,14 @@ Hand entry is not as accurate or efficient.
 The hardest part of the code was getting the database statements
 to work with variable names, the syntax was hard to find.
 
-IT was my first successful program that could be utilized by the public.
+It was my first successful program that could be utilized by the public.
 It was a great feeling and pushed me further.
 
 That being said as I look over the code now I see numerous missteps.
-
--No Comments!?! what was I thinking
-
--Redundant code, checking all those inputs like that yikes!
-
--Variable names could have been better.
-
--Overall readability is not great.
+# Issues
+- No Comments!?! what was I thinking
+- Redundant code, checking all those inputs like that yikes!
+- Variable names could have been better.
+- Overall readability is not great.
 
 But I'm still proud of it.
