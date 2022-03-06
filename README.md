@@ -1,4 +1,8 @@
-# Tithe
+Tithe
+=====
+
+![Application Example Picture](https://github.com/RonaldGRowe/Tithe/blob/master/Image/tithe-image.png)
+
 Small C# Windows form used to track individual tithe contributions.
 Windows Access database was used to store the information
 A text file was also created to be used for a backup or verification
